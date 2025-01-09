@@ -1,3 +1,3 @@
 fn main() {
-    println!("Commit test")
+    // Convert temperatures between Fahrenheit and Celsius.
 }
