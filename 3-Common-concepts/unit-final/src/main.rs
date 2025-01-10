@@ -35,15 +35,16 @@ fn main() {
     let output: f64;
 
     if direction == "t" {
-        println!("Converting {user_input:.2} to degrees F from C...");
-        output = (user_input - 32.0) * (5.0 / 9.0);
-    } else {
         println!("Converting {user_input:.2} to degrees C from F...");
+        output = (user_input - 32.0) * (5.0 / 9.0);
+        println!("Result: {output:.2} degrees C")
+    } else {
+        println!("Converting {user_input:.2} to degrees F from C...");
         output = (user_input * (9.0 / 5.0)) + 32.0;
+        println!("Result: {output:.2} degrees F");
     }
 
-    println!("Result: {output:.2}");
-
+    // Fib sequence
     let agree: String = loop {
         println!("Would you like to see a fibbonacci sequence? (y/n)");
 
