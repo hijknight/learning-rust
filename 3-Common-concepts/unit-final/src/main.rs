@@ -33,7 +33,6 @@ fn main() {
     };
 
     let output: f64;
-
     if direction == "t" {
         println!("Converting {user_input:.2} to degrees C from F...");
         output = (user_input - 32.0) * (5.0 / 9.0);
@@ -64,7 +63,7 @@ fn main() {
     };
 
     if agree == "y" {
-        println!("Okay! Here's the first fifteen numbers of the fibbonacci sequence!");
+        println!("Okay! Here's the first fifteen numbers of the Fibbonacci sequence!");
         let mut counter = 0;
         for n in 1..16 {
             counter += 1;
@@ -72,7 +71,7 @@ fn main() {
             println!("{counter}: {output}");
         }
     } else {
-        println!("Alright! thats okay.")
+        println!("Alright! that's okay.")
     }
 }
 
