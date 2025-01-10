@@ -1,43 +1,86 @@
 use std::io;
-
 fn main() {
-    // Convert temperatures between Fahrenheit and Celsius.
-    let mut user_input: String = String::new();
-    let mut direction: String = String::new();
-    println!("Enter a temperature to convert:");
+    let user_input: f64 = 'input: loop {
+        println!("Enter a temperature to convert in Celsius or Fahrenheit:");
+        let mut input = String::new();
 
-    io::stdin()
-        .read_line(&mut user_input)
-        .expect("Failed to read line");
-
-    let user_input: f64 = user_input.trim().parse().expect("Please type a number!");
-
-    println!("Do you want to convert to or from Celsius? (t/f)");
-
-    io::stdin()
-        .read_line(&mut direction)
-        .expect("Failed to read line");
-
-    let mut direction = direction.trim().to_string();
-
-    let possible = ["t", "f"];
-    while !possible.contains(&direction.as_str()) {
-        println!("Incorrect input, please try again");
-        direction.clear();
         io::stdin()
-            .read_line(&mut direction)
+            .read_line(&mut input)
             .expect("Failed to read line");
-    }
+
+        match input.trim().parse::<f64>() {
+            Ok(value) => break 'input value,
+            Err(_) => println!("Invalid input. Please enter a valid number."),
+        }
+    };
+
+    let direction: String = 'direction: loop {
+        println!("Do you want to convert to or from celsius (t/f):");
+
+        let mut input: String = String::new();
+
+        io::stdin()
+            .read_line(&mut input)
+            .expect("Failed to read line");
+
+        let trimmed: String = input.trim().to_lowercase();
+
+        if trimmed == "t" || trimmed == "f" {
+            break 'direction trimmed.to_string();
+        } else {
+            println!("Invalid input. Please enter 't' of 'f'.");
+        }
+    };
 
     let output: f64;
 
     if direction == "t" {
-        println!("Converting {user_input:.2} degrees F to Celsius");
+        println!("Converting {user_input:.2} to degrees F from C...");
         output = (user_input - 32.0) * (5.0 / 9.0);
     } else {
-        println!("Converting {user_input:.2} degree C to Fahrenheit");
+        println!("Converting {user_input:.2} to degrees C from F...");
         output = (user_input * (9.0 / 5.0)) + 32.0;
     }
 
-    println!("Result: {output:.2}")
+    println!("Result: {output:.2}");
+
+    let agree: String = loop {
+        println!("Would you like to see a fibbonacci sequence? (y/n)");
+
+        let mut input: String = String::new();
+
+        io::stdin()
+            .read_line(&mut input)
+            .expect("Failed to read line");
+
+        let trimmed: String = input.trim().to_lowercase();
+
+        if trimmed == "y" || trimmed == "n" {
+            break trimmed.to_string();
+        } else {
+            println!("Please enter y for yes or n for no");
+        }
+    };
+
+    if agree == "y" {
+        println!("Okay! Here's the first fifteen numbers of the fibbonacci sequence!");
+        let mut counter = 0;
+        for n in 1..16 {
+            counter += 1;
+            let output = fib(n);
+            println!("{counter}: {output}");
+        }
+    } else {
+        println!("Alright! thats okay.")
+    }
+}
+
+fn fib(n: i32) -> i32 {
+    if n <= 0 {
+        return 0;
+    } else if n == 1 {
+        return 1;
+    } else {
+        return fib(n - 1) + fib(n - 2);
+    }
 }
