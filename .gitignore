@@ -3,6 +3,7 @@ Cargo.lock
 Cargo.toml
 target
 .DS_Store
-
+xx-testing
+rustlings
 
 
