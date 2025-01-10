@@ -1,3 +1,5 @@
+
+// Intro to for loops
 // fn main() {
 //     let number: u32 = rand::thread_rng().gen_range(1..10);
 //     println!("number is {number}");
@@ -9,6 +11,7 @@
 //     }
 // }
 
+// counters, and break
 // fn main() {
 //     let mut counter = 0;
 //
@@ -23,12 +26,13 @@
 //     println!("The result is {}", result);
 // }
 
+// loop names, and breaking out of them
 // fn main() {
-//     let mut count: u8 = 0;
+//     let mut count: u32 = 0;
 //
 //     'counting_up: loop {
 //         println!("count = {}", count);
-//         let mut remaining: u8 = 10;
+//         let mut remaining: u32 = 10;
 //         loop {
 //             println!("remaining = {}", remaining);
 //             if remaining == 9 {
@@ -44,6 +48,7 @@
 //     println!("End count = {}", count);
 // }
 
+// while loops
 // fn main() {
 //     let mut number = 3;
 //
@@ -58,6 +63,7 @@
 //
 //
 //
+
 // While loops iterating through an array
 // fn main() {
 //     let a = [10, 20, 30, 40, 50];
@@ -69,6 +75,7 @@
 //     }
 // }
 
+// for loop through an array
 // fn main() {
 //     let a: [i32; 5] = [10, 20, 30, 40, 50];
 //     let mut index = 0;
@@ -78,6 +85,7 @@
 //     }
 // }
 
+// for loop with ranges
 fn main() {
     for number in (1..4).rev() {
         println!("{number}");
