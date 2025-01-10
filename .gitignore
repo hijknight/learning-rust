@@ -1,7 +1,7 @@
 .idea
 Cargo.lock
 Cargo.toml
-target/
+target
 .DS_Store
 
 
