@@ -17,4 +17,11 @@ There is a folder for each chapter, however some sections are missing like 3.2 a
 - 3.4 - Comments
 - 3.5 - Control Flow
 - Unit Final:
-  A project that converts temperature between Fahrenheit and Celsius, and gives the option to generat a fibbonacci sequence (using the stuff learned so far)
+  A project that converts temperature between Fahrenheit and Celsius, 
+and gives the option to generat a fibbonacci sequence (using the stuff learned so far)
+
+## Section 4 - Understanding Ownership
+- 4.1 - What is Ownership?
+- 4.2 - References and Borrowing
+- 4.3 - The Slice Type
+
