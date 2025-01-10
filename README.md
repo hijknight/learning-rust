@@ -2,5 +2,4 @@
 
 ### All code done when following the rust book
 
-[Rust book] 
-(https://doc.rust-lang.org/book/)
+[Rust book](https://doc.rust-lang.org/book/)
