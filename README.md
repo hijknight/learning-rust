@@ -13,7 +13,7 @@ There is a folder in the repo for most chapters (some don't contain code). All b
 - [3.3 - Functions](https://doc.rust-lang.org/book/ch03-03-how-functions-work.html#functions) - [My work](https://github.com/hijknight/learning-rust/tree/master/3-Common-concepts/3.3-functions/src)
 - [3.4 - Comments](https://doc.rust-lang.org/book/ch03-04-comments.html#comments)
 - [3.5 - Control Flow](https://doc.rust-lang.org/book/ch03-05-control-flow.html#control-flow) - [My work](https://github.com/hijknight/learning-rust/tree/master/3-Common-concepts/3.5-branches/src)
-- [Unit Final:](https://doc.rust-lang.org/book/ch03-05-control-flow.html#summary) - [My work](https://github.com/hijknight/learning-rust/tree/master/3-Common-concepts/unit-final/src)
+- [Unit Final:](https://doc.rust-lang.org/book/ch03-05-control-flow.html#summary) - [My work](https://github.com/hijknight/learning-rust/tree/master/3-Common-concepts/unit-final/src) <br>
   A project that converts temperature between Fahrenheit and Celsius,
 and gives the option to generate a fibbonacci sequence (using the stuff learned so far)
 
