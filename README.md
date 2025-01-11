@@ -24,7 +24,7 @@ and gives the option to generate a fibbonacci sequence (using the stuff learned 
 
 ## Section 5 - [Using Structs to Structure Related Data](https://doc.rust-lang.org/book/ch05-00-structs.html#using-structs-to-structure-related-data)
 - [5.1 - Defining and Instantiating Structs](https://doc.rust-lang.org/book/ch05-01-defining-structs.html#defining-and-instantiating-structs) - [My work](https://github.com/hijknight/learning-rust/tree/master/5-structs/5.1-defining-structs/src)
-- [5.2 - An Example Program Using Structs](https://doc.rust-lang.org/book/ch05-02-example-structs.html#an-example-program-using-structs) - Complete
+- [5.2 - An Example Program Using Structs](https://doc.rust-lang.org/book/ch05-02-example-structs.html#an-example-program-using-structs) - In Progress
 - [5.3 - Method Syntax](https://doc.rust-lang.org/book/ch05-03-method-syntax.html#method-syntax) - In Progress
 
 [Leaving off here](https://doc.rust-lang.org/book/ch05-02-example-structs.html#adding-useful-functionality-with-derived-traits)
