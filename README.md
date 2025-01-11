@@ -27,4 +27,3 @@ and gives the option to generate a fibbonacci sequence (using the stuff learned 
 - [5.2 - An Example Program Using Structs](https://doc.rust-lang.org/book/ch05-02-example-structs.html#an-example-program-using-structs) - In Progress
 - [5.3 - Method Syntax](https://doc.rust-lang.org/book/ch05-03-method-syntax.html#method-syntax) - In Progress
 
-[Leaving off here](https://doc.rust-lang.org/book/ch05-02-example-structs.html#adding-useful-functionality-with-derived-traits)
