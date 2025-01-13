@@ -34,6 +34,6 @@ ___
 ___
 ### Chapter 6 - [Enums and Pattern Matching](https://doc.rust-lang.org/book/ch06-00-enums.html#enums-and-pattern-matching)
 - [6.1 - Defining an Enum](https://doc.rust-lang.org/book/ch06-01-defining-an-enum.html#defining-an-enum) - [My Work](https://github.com/hijknight/learning-rust/tree/master/6-enums/6.1-defining-an-enum/src)
-- [6.2 - The `match` Control Flow Construct](https://doc.rust-lang.org/book/ch06-02-match.html#the-match-control-flow-construct) - In Progress
+- [6.2 - The `match` Control Flow Construct](https://doc.rust-lang.org/book/ch06-02-match.html#the-match-control-flow-construct) - [My Work](https://github.com/hijknight/learning-rust/tree/master/6-enums/6.2-match/src)
 - [6.3 - Concise Control Flow with `if let`](https://doc.rust-lang.org/book/ch06-03-if-let.html#concise-control-flow-with-if-let) - In Progress
 
