@@ -36,4 +36,11 @@ ___
 - [6.1 - Defining an Enum](https://doc.rust-lang.org/book/ch06-01-defining-an-enum.html#defining-an-enum) - [My Work](https://github.com/hijknight/learning-rust/tree/master/6-enums/6.1-defining-an-enum/src)
 - [6.2 - The `match` Control Flow Construct](https://doc.rust-lang.org/book/ch06-02-match.html#the-match-control-flow-construct) - [My Work](https://github.com/hijknight/learning-rust/tree/master/6-enums/6.2-match/src)
 - [6.3 - Concise Control Flow with `if let`](https://doc.rust-lang.org/book/ch06-03-if-let.html#concise-control-flow-with-if-let) - [My Work](https://github.com/hijknight/learning-rust/tree/master/6-enums/6.3-if-let/src)
+___
+### Chapter 7 - [Managing Growing Projects with Packages, Crate, and Modules](https://doc.rust-lang.org/book/ch07-00-managing-growing-projects-with-packages-crates-and-modules.html#managing-growing-projects-with-packages-crates-and-modules)
+- [7.1 - Packages and Crates](https://doc.rust-lang.org/book/ch07-01-packages-and-crates.html#packages-and-crates) - In Progress
+- [7.2 - Defining Modules to Control Scope and Privacy](https://doc.rust-lang.org/book/ch07-02-defining-modules-to-control-scope-and-privacy.html#defining-modules-to-control-scope-and-privacy) - In Progress
+- [7.3 - Paths for Referring to an Item in the Module Tree](https://doc.rust-lang.org/book/ch07-02-defining-modules-to-control-scope-and-privacy.html#defining-modules-to-control-scope-and-privacy) - In Progress
+- [7.4 - Bringing Paths into Scope with the `use` Keyword](https://doc.rust-lang.org/book/ch07-04-bringing-paths-into-scope-with-the-use-keyword.html#bringing-paths-into-scope-with-the-use-keyword) - In Progress
+- [7.5 - Separating Modules into Different Files](https://doc.rust-lang.org/book/ch07-05-separating-modules-into-different-files.html#separating-modules-into-different-files) - In Progress
 
