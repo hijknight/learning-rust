@@ -38,9 +38,13 @@ ___
 - [6.3 - Concise Control Flow with `if let`](https://doc.rust-lang.org/book/ch06-03-if-let.html#concise-control-flow-with-if-let) - [My Work](https://github.com/hijknight/learning-rust/tree/master/6-enums/6.3-if-let/src)
 ___
 ### Chapter 7 - [Managing Growing Projects with Packages, Crate, and Modules](https://doc.rust-lang.org/book/ch07-00-managing-growing-projects-with-packages-crates-and-modules.html#managing-growing-projects-with-packages-crates-and-modules)
-- [7.1 - Packages and Crates](https://doc.rust-lang.org/book/ch07-01-packages-and-crates.html#packages-and-crates) - In Progress
-- [7.2 - Defining Modules to Control Scope and Privacy](https://doc.rust-lang.org/book/ch07-02-defining-modules-to-control-scope-and-privacy.html#defining-modules-to-control-scope-and-privacy) - In Progress
-- [7.3 - Paths for Referring to an Item in the Module Tree](https://doc.rust-lang.org/book/ch07-02-defining-modules-to-control-scope-and-privacy.html#defining-modules-to-control-scope-and-privacy) - In Progress
-- [7.4 - Bringing Paths into Scope with the `use` Keyword](https://doc.rust-lang.org/book/ch07-04-bringing-paths-into-scope-with-the-use-keyword.html#bringing-paths-into-scope-with-the-use-keyword) - In Progress
-- [7.5 - Separating Modules into Different Files](https://doc.rust-lang.org/book/ch07-05-separating-modules-into-different-files.html#separating-modules-into-different-files) - In Progress
-
+- [7.1 - Packages and Crates](https://doc.rust-lang.org/book/ch07-01-packages-and-crates.html#packages-and-crates)
+- [7.2 - Defining Modules to Control Scope and Privacy](https://doc.rust-lang.org/book/ch07-02-defining-modules-to-control-scope-and-privacy.html#defining-modules-to-control-scope-and-privacy) - [My Work](https://github.com/hijknight/learning-rust/tree/master/7-managing-projects/7.2-privacy-control)
+- [7.3 - Paths for Referring to an Item in the Module Tree](https://doc.rust-lang.org/book/ch07-02-defining-modules-to-control-scope-and-privacy.html#defining-modules-to-control-scope-and-privacy) - [My Work](https://github.com/hijknight/learning-rust/tree/master/7-managing-projects/7.3-paths/src)
+- [7.4 - Bringing Paths into Scope with the `use` Keyword](https://doc.rust-lang.org/book/ch07-04-bringing-paths-into-scope-with-the-use-keyword.html#bringing-paths-into-scope-with-the-use-keyword) - [My Work](https://github.com/hijknight/learning-rust/tree/master/7-managing-projects/7.4-use-keyword/src)
+- [7.5 - Separating Modules into Different Files](https://doc.rust-lang.org/book/ch07-05-separating-modules-into-different-files.html#separating-modules-into-different-files) - [My Work](https://github.com/hijknight/learning-rust/tree/master/7-managing-projects/7.5-seperating-modules/src)
+___
+### Chapter 8 - [Common Collections](https://doc.rust-lang.org/book/ch08-00-common-collections.html#common-collections)
+- [8.1 - Storing Lists of Values with Vectors](https://doc.rust-lang.org/book/ch08-01-vectors.html#storing-lists-of-values-with-vectors) - In Progress
+- [8.2 - Storing UTF-8 Encoded Text with Strings](https://doc.rust-lang.org/book/ch08-02-strings.html#storing-utf-8-encoded-text-with-strings) - In Progress
+- [8.3 - Storing Keys with Associated Values in Hash Maps](https://doc.rust-lang.org/book/ch08-03-hash-maps.html#storing-keys-with-associated-values-in-hash-maps) - In Progress
