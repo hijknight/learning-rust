@@ -45,6 +45,11 @@ ___
 - [7.5 - Separating Modules into Different Files](https://doc.rust-lang.org/book/ch07-05-separating-modules-into-different-files.html#separating-modules-into-different-files) - [My Work](https://github.com/hijknight/learning-rust/tree/master/7-managing-projects/7.5-seperating-modules/src)
 ___
 ### Chapter 8 - [Common Collections](https://doc.rust-lang.org/book/ch08-00-common-collections.html#common-collections)
-- [8.1 - Storing Lists of Values with Vectors](https://doc.rust-lang.org/book/ch08-01-vectors.html#storing-lists-of-values-with-vectors) - In Progress
-- [8.2 - Storing UTF-8 Encoded Text with Strings](https://doc.rust-lang.org/book/ch08-02-strings.html#storing-utf-8-encoded-text-with-strings) - In Progress
-- [8.3 - Storing Keys with Associated Values in Hash Maps](https://doc.rust-lang.org/book/ch08-03-hash-maps.html#storing-keys-with-associated-values-in-hash-maps) - In Progress
+- [8.1 - Storing Lists of Values with Vectors](https://doc.rust-lang.org/book/ch08-01-vectors.html#storing-lists-of-values-with-vectors) - [My Work](https://github.com/hijknight/learning-rust/tree/master/8-common-collections/8.1-vectors/src)
+- [8.2 - Storing UTF-8 Encoded Text with Strings](https://doc.rust-lang.org/book/ch08-02-strings.html#storing-utf-8-encoded-text-with-strings) - [My Work](https://github.com/hijknight/learning-rust/tree/master/8-common-collections/8.2-strings/src)
+- [8.3 - Storing Keys with Associated Values in Hash Maps](https://doc.rust-lang.org/book/ch08-03-hash-maps.html#storing-keys-with-associated-values-in-hash-maps) - [My Work](https://github.com/hijknight/learning-rust/tree/master/8-common-collections/8.3-hash-maps/src)
+___
+### Chapter 9 - [Error Handling](https://doc.rust-lang.org/book/ch09-00-error-handling.html#error-handling)
+- [9.1 - Unrecoverable Errors with `panic!`](https://doc.rust-lang.org/book/ch09-01-unrecoverable-errors-with-panic.html#unrecoverable-errors-with-panic) - In Progress
+- [9.2 - Recoverable Errors with `Result`](https://doc.rust-lang.org/book/ch09-02-recoverable-errors-with-result.html#recoverable-errors-with-result) - In Progress
+- [9.3 - To `panic!` or Not to `panic!`](https://doc.rust-lang.org/book/ch09-03-to-panic-or-not-to-panic.html#to-panic-or-not-to-panic) - In Progress
