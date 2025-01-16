@@ -50,6 +50,11 @@ ___
 - [8.3 - Storing Keys with Associated Values in Hash Maps](https://doc.rust-lang.org/book/ch08-03-hash-maps.html#storing-keys-with-associated-values-in-hash-maps) - [My Work](https://github.com/hijknight/learning-rust/tree/master/8-common-collections/8.3-hash-maps/src)
 ___
 ### Chapter 9 - [Error Handling](https://doc.rust-lang.org/book/ch09-00-error-handling.html#error-handling)
-- [9.1 - Unrecoverable Errors with `panic!`](https://doc.rust-lang.org/book/ch09-01-unrecoverable-errors-with-panic.html#unrecoverable-errors-with-panic) - In Progress
-- [9.2 - Recoverable Errors with `Result`](https://doc.rust-lang.org/book/ch09-02-recoverable-errors-with-result.html#recoverable-errors-with-result) - In Progress
-- [9.3 - To `panic!` or Not to `panic!`](https://doc.rust-lang.org/book/ch09-03-to-panic-or-not-to-panic.html#to-panic-or-not-to-panic) - In Progress
+- [9.1 - Unrecoverable Errors with `panic!`](https://doc.rust-lang.org/book/ch09-01-unrecoverable-errors-with-panic.html#unrecoverable-errors-with-panic) - [My Work](https://github.com/hijknight/learning-rust/tree/master/9-error-handling/9.1-unrecoverable-errors/src)
+- [9.2 - Recoverable Errors with `Result`](https://doc.rust-lang.org/book/ch09-02-recoverable-errors-with-result.html#recoverable-errors-with-result) - [My Work](https://github.com/hijknight/learning-rust/tree/master/9-error-handling/9.2-result/src)
+- [9.3 - To `panic!` or Not to `panic!`](https://doc.rust-lang.org/book/ch09-03-to-panic-or-not-to-panic.html#to-panic-or-not-to-panic) - [My Work](https://github.com/hijknight/learning-rust/tree/master/9-error-handling/9.3-when-to-panic/src)
+___
+### Chapter 10 - [Generic Types, Traits, and Lifetimes](https://doc.rust-lang.org/book/ch10-00-generics.html#generic-types-traits-and-lifetimes)
+- [Generic Data Types](https://doc.rust-lang.org/book/ch10-01-syntax.html#generic-data-types) - In Progress (Really long)
+- [Traits: Defining Shared Behavior](https://doc.rust-lang.org/book/ch10-02-traits.html#traits-defining-shared-behavior) - In Progress (Really long)
+- [Validating References with Lifetimes](https://doc.rust-lang.org/book/ch10-03-lifetime-syntax.html#validating-references-with-lifetimes) - In Progress (Insanely long)
