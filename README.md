@@ -22,7 +22,7 @@ ___
   - A project that converts temperature between Fahrenheit and Celsius,
 and gives the option to generate a fibbonacci sequence (using the stuff learned so far)
 ___
-### Chapter 4 - [Understanding Ownership](https://doc.rust-lang.org/book/ch04-00-understanding-ownership.html#understanding-ownership)
+### Chapter 4 - [Un derstanding Ownership](https://doc.rust-lang.org/book/ch04-00-understanding-ownership.html#understanding-ownership)
 - [4.1 - What is Ownership?](https://doc.rust-lang.org/book/ch04-01-what-is-ownership.html#what-is-ownership) - [My work](https://github.com/hijknight/learning-rust/tree/master/4-ownership/4.1-what-is-ownership/src)
 - [4.2 - References and Borrowing](https://doc.rust-lang.org/book/ch04-02-references-and-borrowing.html#references-and-borrowing) - [My work](https://github.com/hijknight/learning-rust/tree/master/4-ownership/4.2-references/src)
 - [4.3 - The Slice Type](https://doc.rust-lang.org/book/ch04-03-slices.html#the-slice-type) - [My work](https://github.com/hijknight/learning-rust/tree/master/4-ownership/4.3-slice/src)
@@ -55,6 +55,11 @@ ___
 - [9.3 - To `panic!` or Not to `panic!`](https://doc.rust-lang.org/book/ch09-03-to-panic-or-not-to-panic.html#to-panic-or-not-to-panic) - [My Work](https://github.com/hijknight/learning-rust/tree/master/9-error-handling/9.3-when-to-panic/src)
 ___
 ### Chapter 10 - [Generic Types, Traits, and Lifetimes](https://doc.rust-lang.org/book/ch10-00-generics.html#generic-types-traits-and-lifetimes)
-- [Generic Data Types](https://doc.rust-lang.org/book/ch10-01-syntax.html#generic-data-types) - In Progress (Really long)
-- [Traits: Defining Shared Behavior](https://doc.rust-lang.org/book/ch10-02-traits.html#traits-defining-shared-behavior) - In Progress (Really long)
+- [Generic Data Types](https://doc.rust-lang.org/book/ch10-01-syntax.html#generic-data-types) - Complete
+- [Traits: Defining Shared Behavior](https://doc.rust-lang.org/book/ch10-02-traits.html#traits-defining-shared-behavior) - Complete
 - [Validating References with Lifetimes](https://doc.rust-lang.org/book/ch10-03-lifetime-syntax.html#validating-references-with-lifetimes) - In Progress (Insanely long)
+___
+### Chapter 11 - [Writing Automated Tests](https://doc.rust-lang.org/book/ch11-00-testing.html#writing-automated-tests)
+- [How to Write Tests](https://doc.rust-lang.org/book/ch11-01-writing-tests.html#how-to-write-tests) - Starting Soon
+- [Controlling How Tests Are Run](https://doc.rust-lang.org/book/ch11-02-running-tests.html#controlling-how-tests-are-run) - Starting Soon
+- [Test Organization](https://doc.rust-lang.org/book/ch11-03-test-organization.html#test-organization) - Starting Soon
