@@ -55,11 +55,11 @@ ___
 - [9.3 - To `panic!` or Not to `panic!`](https://doc.rust-lang.org/book/ch09-03-to-panic-or-not-to-panic.html#to-panic-or-not-to-panic) - [My Work](https://github.com/hijknight/learning-rust/tree/master/9-error-handling/9.3-when-to-panic/src)
 ___
 ### Chapter 10 - [Generic Types, Traits, and Lifetimes](https://doc.rust-lang.org/book/ch10-00-generics.html#generic-types-traits-and-lifetimes)
-- [Generic Data Types](https://doc.rust-lang.org/book/ch10-01-syntax.html#generic-data-types) - Complete
-- [Traits: Defining Shared Behavior](https://doc.rust-lang.org/book/ch10-02-traits.html#traits-defining-shared-behavior) - Complete
-- [Validating References with Lifetimes](https://doc.rust-lang.org/book/ch10-03-lifetime-syntax.html#validating-references-with-lifetimes) - In Progress (Insanely long)
+- [Generic Data Types](https://doc.rust-lang.org/book/ch10-01-syntax.html#generic-data-types) - [My Work](https://github.com/hijknight/learning-rust/tree/master/10-types-traits-lifetimes/10.1-generic-types/src)
+- [Traits: Defining Shared Behavior](https://doc.rust-lang.org/book/ch10-02-traits.html#traits-defining-shared-behavior) - [My Work](https://github.com/hijknight/learning-rust/tree/master/10-types-traits-lifetimes/10.2-traits)
+- [Validating References with Lifetimes](https://doc.rust-lang.org/book/ch10-03-lifetime-syntax.html#validating-references-with-lifetimes) - [My Work](https://github.com/hijknight/learning-rust/tree/master/10-types-traits-lifetimes/10.3-lifetimes/src)
 ___
 ### Chapter 11 - [Writing Automated Tests](https://doc.rust-lang.org/book/ch11-00-testing.html#writing-automated-tests)
-- [How to Write Tests](https://doc.rust-lang.org/book/ch11-01-writing-tests.html#how-to-write-tests) - Starting Soon
+- [How to Write Tests](https://doc.rust-lang.org/book/ch11-01-writing-tests.html#how-to-write-tests) - Starting Soon (might take a while)
 - [Controlling How Tests Are Run](https://doc.rust-lang.org/book/ch11-02-running-tests.html#controlling-how-tests-are-run) - Starting Soon
 - [Test Organization](https://doc.rust-lang.org/book/ch11-03-test-organization.html#test-organization) - Starting Soon
