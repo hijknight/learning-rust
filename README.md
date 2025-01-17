@@ -22,7 +22,7 @@ ___
   - A project that converts temperature between Fahrenheit and Celsius,
 and gives the option to generate a fibbonacci sequence (using the stuff learned so far)
 ___
-### Chapter 4 - [Un derstanding Ownership](https://doc.rust-lang.org/book/ch04-00-understanding-ownership.html#understanding-ownership)
+### Chapter 4 - [Understanding Ownership](https://doc.rust-lang.org/book/ch04-00-understanding-ownership.html#understanding-ownership)
 - [4.1 - What is Ownership?](https://doc.rust-lang.org/book/ch04-01-what-is-ownership.html#what-is-ownership) - [My work](https://github.com/hijknight/learning-rust/tree/master/4-ownership/4.1-what-is-ownership/src)
 - [4.2 - References and Borrowing](https://doc.rust-lang.org/book/ch04-02-references-and-borrowing.html#references-and-borrowing) - [My work](https://github.com/hijknight/learning-rust/tree/master/4-ownership/4.2-references/src)
 - [4.3 - The Slice Type](https://doc.rust-lang.org/book/ch04-03-slices.html#the-slice-type) - [My work](https://github.com/hijknight/learning-rust/tree/master/4-ownership/4.3-slice/src)
