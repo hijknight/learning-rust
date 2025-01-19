@@ -64,7 +64,7 @@ ___
 - [11.2 - Controlling How Tests Are Run](https://doc.rust-lang.org/book/ch11-02-running-tests.html#controlling-how-tests-are-run) - [My Work](https://github.com/hijknight/learning-rust/tree/master/11-tests/11.2-controlling-tests/src)
 - [11.3 - Test Organization](https://doc.rust-lang.org/book/ch11-03-test-organization.html#test-organization) - [My Work](https://github.com/hijknight/learning-rust/tree/master/11-tests/11.3-test-organization)
 ___
-### Chapter 12 - [An I/O Project: Building a Command Line Program](https://doc.rust-lang.org/book/ch12-00-an-io-project.html#an-io-project-building-a-command-line-program)
+### Chapter 12 - [An I/O Project: Building a Command Line Program](https://doc.rust-lang.org/book/ch12-00-an-io-project.html#an-io-project-building-a-command-line-program) - [My Work]()
 - [12.1 - Accepting Command Line Arguments](https://doc.rust-lang.org/book/ch12-01-accepting-command-line-arguments.html#accepting-command-line-arguments)
 - [12.2 - Reading a File](https://doc.rust-lang.org/book/ch12-02-reading-a-file.html#reading-a-file)
 - [12.3 - Refactoring to Improve Modularity and Error Handling](https://doc.rust-lang.org/book/ch12-03-improving-error-handling-and-modularity.html#refactoring-to-improve-modularity-and-error-handling)
