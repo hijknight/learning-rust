@@ -60,9 +60,9 @@ ___
 - [10.3 - Validating References with Lifetimes](https://doc.rust-lang.org/book/ch10-03-lifetime-syntax.html#validating-references-with-lifetimes) - [My Work](https://github.com/hijknight/learning-rust/tree/master/10-types-traits-lifetimes/10.3-lifetimes/src)
 ___
 ### Chapter 11 - [Writing Automated Tests](https://doc.rust-lang.org/book/ch11-00-testing.html#writing-automated-tests)
-- [11.1 - How to Write Tests](https://doc.rust-lang.org/book/ch11-01-writing-tests.html#how-to-write-tests) - [My Work]()
-- [11.2 - Controlling How Tests Are Run](https://doc.rust-lang.org/book/ch11-02-running-tests.html#controlling-how-tests-are-run) - [My Work]()
-- [11.3 - Test Organization](https://doc.rust-lang.org/book/ch11-03-test-organization.html#test-organization) - [My Work]()
+- [11.1 - How to Write Tests](https://doc.rust-lang.org/book/ch11-01-writing-tests.html#how-to-write-tests) - [My Work](https://github.com/hijknight/learning-rust/tree/master/11-tests/11.1-auto-tests/adder/src)
+- [11.2 - Controlling How Tests Are Run](https://doc.rust-lang.org/book/ch11-02-running-tests.html#controlling-how-tests-are-run) - [My Work](https://github.com/hijknight/learning-rust/tree/master/11-tests/11.2-controlling-tests/src)
+- [11.3 - Test Organization](https://doc.rust-lang.org/book/ch11-03-test-organization.html#test-organization) - [My Work](https://github.com/hijknight/learning-rust/tree/master/11-tests/11.3-test-organization)
 ___
 ### Chapter 12 - [An I/O Project: Building a Command Line Program](https://doc.rust-lang.org/book/ch12-00-an-io-project.html#an-io-project-building-a-command-line-program)
 - [12.1 - Accepting Command Line Arguments](https://doc.rust-lang.org/book/ch12-01-accepting-command-line-arguments.html#accepting-command-line-arguments)
