@@ -1,5 +1,0 @@
-
-run with `cargo run -- to poem.txt > output.txt`
-
-Are you nobody, too?
-How dreary to be somebody!
