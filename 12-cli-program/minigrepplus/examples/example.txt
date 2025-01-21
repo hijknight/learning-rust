@@ -1,0 +1,6 @@
+`cargo run -- to poem.txt` first arg is query, second is the file path to the searched file
+
+Input: poem.txt
+Output:
+Are you nobody, too?
+How dreary to be somebody!

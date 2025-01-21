@@ -5,5 +5,6 @@ target
 .DS_Store
 xx-testing
 rustlings
-
-
+!12-cli-program/minigrepplus/*
+12-cli-program/minigrepplus/target
+12-cli-program/minigrepplus/.DS_Store
