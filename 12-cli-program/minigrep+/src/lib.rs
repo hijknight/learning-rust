@@ -86,7 +86,7 @@ fn help() {
     println!("In order to ignore case add `IGNORE_CASE = 1` env variable in front of command, like so:");
     println!("`IGNORE_CASE = 1 cargo run -- query file_path`");
     println!();
-    println!("   Program desc.:");
+    println!("Program desc.:");
     println!("     Parses through each line of a given file and return the line(s) containing a query word.");
     process::exit(2);
 }

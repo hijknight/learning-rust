@@ -3,14 +3,5 @@
 version = 4
 
 [[package]]
-name = "minigrep"
-version = "0.1.0"
-dependencies = [
- "system",
-]
-
-[[package]]
-name = "system"
-version = "0.3.3"
-source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "bf0010af984f1607939cf5f64a332bfbde3c533219b60dd96b8996c258cfc03a"
+name = "minigrep_plus"
+version = "0.2.0"
