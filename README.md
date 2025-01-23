@@ -71,3 +71,11 @@ ___
 - [12.4 - Developing the Library's Functionality with Test-Driven Development](https://doc.rust-lang.org/book/ch12-04-testing-the-librarys-functionality.html#developing-the-librarys-functionality-with-test-driven-development)
 - [12.5 - Working with Environment Variables](https://doc.rust-lang.org/book/ch12-05-working-with-environment-variables.html#working-with-environment-variables)
 - [12.6 - Writing Error Messages to Standard Error Instead of Standard Output](https://doc.rust-lang.org/book/ch12-06-writing-to-stderr-instead-of-stdout.html#writing-error-messages-to-standard-error-instead-of-standard-output)
+___
+### Chapter 13 - [Iterators and Closures](https://doc.rust-lang.org/book/ch13-00-functional-features.html#functional-language-features-iterators-and-closures)
+- [13.1 - Closures](https://doc.rust-lang.org/book/ch13-01-closures.html#closures-anonymous-functions-that-capture-their-environment)
+- [13.2 - Iterators](https://doc.rust-lang.org/book/ch13-02-iterators.html#processing-a-series-of-items-with-iterators)
+- [13.3 - Improving Project](https://doc.rust-lang.org/book/ch13-03-improving-our-io-project.html#improving-our-io-project)
+- [13.4 - Comparing Performance](https://doc.rust-lang.org/book/ch13-04-performance.html#comparing-performance-loops-vs-iterators)
+
+  
