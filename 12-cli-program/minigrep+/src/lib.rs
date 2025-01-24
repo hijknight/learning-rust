@@ -15,12 +15,14 @@ impl Config {
             return Err("not enough arguments\nUsage: `cargo run -- query file_path`\n\nrun `cargo run -- help` for more info");
         }
 
+        let query = args[1].clone();
+        let file_path = args[2].clone();
+
         let ignore_case: bool = env::var("IGNORE_CASE").is_ok();
 
-
         Ok(Config {
-            query: args[1].clone(),
-            file_path: args[2].clone(),
+            query,
+            file_path,
             ignore_case,
         })
     }
