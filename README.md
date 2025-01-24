@@ -73,9 +73,17 @@ ___
 - [12.6 - Writing Error Messages to Standard Error Instead of Standard Output](https://doc.rust-lang.org/book/ch12-06-writing-to-stderr-instead-of-stdout.html#writing-error-messages-to-standard-error-instead-of-standard-output)
 ___
 ### Chapter 13 - [Iterators and Closures](https://doc.rust-lang.org/book/ch13-00-functional-features.html#functional-language-features-iterators-and-closures)
-- [13.1 - Closures](https://doc.rust-lang.org/book/ch13-01-closures.html#closures-anonymous-functions-that-capture-their-environment)
-- [13.2 - Iterators](https://doc.rust-lang.org/book/ch13-02-iterators.html#processing-a-series-of-items-with-iterators)
+- [13.1 - Closures](https://doc.rust-lang.org/book/ch13-01-closures.html#closures-anonymous-functions-that-capture-their-environment) - [My Work](https://github.com/hijknight/learning-rust/tree/master/13-functional-features/13.1-closures)
+- [13.2 - Iterators](https://doc.rust-lang.org/book/ch13-02-iterators.html#processing-a-series-of-items-with-iterators) - [My Work](https://github.com/hijknight/learning-rust/tree/master/13-functional-features/13.2-iterators)
 - [13.3 - Improving Project](https://doc.rust-lang.org/book/ch13-03-improving-our-io-project.html#improving-our-io-project)
 - [13.4 - Comparing Performance](https://doc.rust-lang.org/book/ch13-04-performance.html#comparing-performance-loops-vs-iterators)
+___
+### Chapter 14 - [More about Crates and Cargo](https://doc.rust-lang.org/book/ch14-00-more-about-cargo.html#more-about-cargo-and-cratesio)
+- [14.1 - Customizing Builds with Release Profiles](https://doc.rust-lang.org/book/ch14-01-release-profiles.html#customizing-builds-with-release-profiles)
+- [14.2 - Publishing a Crate to Crates.io](https://doc.rust-lang.org/book/ch14-02-publishing-to-crates-io.html#publishing-a-crate-to-cratesio)
+- [14.3 - Cargo Workspaces](https://doc.rust-lang.org/book/ch14-03-cargo-workspaces.html#cargo-workspaces)
+- [14.4 - Installing Binaries with `cargo install`](https://doc.rust-lang.org/book/ch14-04-installing-binaries.html#installing-binaries-with-cargo-install)
+- [14.5 - Extending Cargo with Custom Commands](https://doc.rust-lang.org/book/ch14-05-extending-cargo.html#extending-cargo-with-custom-commands)
+
 
   
