@@ -11,18 +11,20 @@ impl Config {
     pub fn build(mut args: impl Iterator<Item = String>) -> Result<Config, &'static str> {
         args.next();
 
-        if args.next() == Some(String::from("help")) {
+        let first_arg = args.next();
+        let second_arg = args.next();
+        if first_arg == Some(String::from("help")) {
             help();
         }
 
 
         let ignore_case: bool = env::var("IGNORE_CASE").is_ok();
 
-        let query = match args.next() {
+        let query = match first_arg {
             Some(arg) => arg,
             None => return Err("no argument found for query\nUsage: `cargo run -- (query) (file_path)`\n\nrun `cargo run -- help` for more info"),
         };
-        let file_path = match args.next() {
+        let file_path = match second_arg {
             Some(arg) => arg,
             None => return Err("no argument found for file_path\nUsage: `cargo run -- query file_path`\n\nrun `cargo run -- help` for more info"),
         };
