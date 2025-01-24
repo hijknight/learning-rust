@@ -8,23 +8,31 @@ pub struct Config {
 }
 
 impl Config {
-    pub fn build(args: &[String]) -> Result<Config, &str> {
-        if args.contains(&String::from("help")) {
+    pub fn build(mut args: impl Iterator<Item = String>) -> Result<Config, &'static str> {
+        args.next();
+
+        if args.next() == Some(String::from("help")) {
             help();
-        } else if args.len() < 3 {
-            return Err("not enough arguments\nUsage: `cargo run -- query file_path`\n\nrun `cargo run -- help` for more info");
         }
 
-        let query = args[1].clone();
-        let file_path = args[2].clone();
 
         let ignore_case: bool = env::var("IGNORE_CASE").is_ok();
+
+        let query = match args.next() {
+            Some(arg) => arg,
+            None => return Err("no argument found for query\nUsage: `cargo run -- (query) (file_path)`\n\nrun `cargo run -- help` for more info"),
+        };
+        let file_path = match args.next() {
+            Some(arg) => arg,
+            None => return Err("no argument found for file_path\nUsage: `cargo run -- query file_path`\n\nrun `cargo run -- help` for more info"),
+        };
 
         Ok(Config {
             query,
             file_path,
             ignore_case,
         })
+
     }
 }
 
