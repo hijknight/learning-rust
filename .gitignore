@@ -1,9 +1,5 @@
 .idea
-Cargo.lock
-Cargo.toml
 target
 .DS_Store
 xx-testing
 rustlings
-!12-cli-program/minigrep+/*
-12-cli-program/minigrep+/target
