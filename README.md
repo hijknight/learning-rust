@@ -78,12 +78,17 @@ ___
 - [13.3 - Improving Project](https://doc.rust-lang.org/book/ch13-03-improving-our-io-project.html#improving-our-io-project)
 - [13.4 - Comparing Performance](https://doc.rust-lang.org/book/ch13-04-performance.html#comparing-performance-loops-vs-iterators)
 ___
-### Chapter 14 - [More about Crates and Cargo](https://doc.rust-lang.org/book/ch14-00-more-about-cargo.html#more-about-cargo-and-cratesio)
+### Chapter 14 - [More about Crates and Cargo](https://doc.rust-lang.org/book/ch14-00-more-about-cargo.html#more-about-cargo-and-cratesio) - [My Work](https://github.com/hijknight/learning-rust/tree/master/14-cargo-crates/my_crate)
 - [14.1 - Customizing Builds with Release Profiles](https://doc.rust-lang.org/book/ch14-01-release-profiles.html#customizing-builds-with-release-profiles)
 - [14.2 - Publishing a Crate to Crates.io](https://doc.rust-lang.org/book/ch14-02-publishing-to-crates-io.html#publishing-a-crate-to-cratesio)
 - [14.3 - Cargo Workspaces](https://doc.rust-lang.org/book/ch14-03-cargo-workspaces.html#cargo-workspaces)
 - [14.4 - Installing Binaries with `cargo install`](https://doc.rust-lang.org/book/ch14-04-installing-binaries.html#installing-binaries-with-cargo-install)
 - [14.5 - Extending Cargo with Custom Commands](https://doc.rust-lang.org/book/ch14-05-extending-cargo.html#extending-cargo-with-custom-commands)
-
-
+### Chapter 15 - [Smart Pointers](https://doc.rust-lang.org/book/ch15-00-smart-pointers.html#smart-pointers)
+- [15.1 - Using `Box<T>` to Point to Data on the Heap](https://doc.rust-lang.org/book/ch15-01-box.html#using-boxt-to-point-to-data-on-the-heap)
+- [15.2 - Using `Deref` Trait](https://doc.rust-lang.org/book/ch15-02-deref.html#treating-smart-pointers-like-regular-references-with-the-deref-trait)
+- [15.3 - Running Code on Cleanup with the `Drop` Trait](https://doc.rust-lang.org/book/ch15-02-deref.html#treating-smart-pointers-like-regular-references-with-the-deref-trait)
+- [15.4 - `Rc<T>`, the Reference Counted Smart Pointer](https://doc.rust-lang.org/book/ch15-04-rc.html#rct-the-reference-counted-smart-pointer)
+- [15.5 - `RefCell<T>` and the Interior Mutability Pattern](https://doc.rust-lang.org/book/ch15-05-interior-mutability.html#refcellt-and-the-interior-mutability-pattern)
+- [15.6 - Reference Cycles Can Leak Memory](https://doc.rust-lang.org/book/ch15-06-reference-cycles.html#reference-cycles-can-leak-memory)
   
