@@ -84,6 +84,7 @@ ___
 - [14.3 - Cargo Workspaces](https://doc.rust-lang.org/book/ch14-03-cargo-workspaces.html#cargo-workspaces)
 - [14.4 - Installing Binaries with `cargo install`](https://doc.rust-lang.org/book/ch14-04-installing-binaries.html#installing-binaries-with-cargo-install)
 - [14.5 - Extending Cargo with Custom Commands](https://doc.rust-lang.org/book/ch14-05-extending-cargo.html#extending-cargo-with-custom-commands)
+___
 ### Chapter 15 - [Smart Pointers](https://doc.rust-lang.org/book/ch15-00-smart-pointers.html#smart-pointers)
 - [15.1 - Using `Box<T>` to Point to Data on the Heap](https://doc.rust-lang.org/book/ch15-01-box.html#using-boxt-to-point-to-data-on-the-heap)
 - [15.2 - Using `Deref` Trait](https://doc.rust-lang.org/book/ch15-02-deref.html#treating-smart-pointers-like-regular-references-with-the-deref-trait)
