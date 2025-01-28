@@ -4,3 +4,4 @@ target
 xx-testing
 rustlings
 Cargo.lock
+*.sh
