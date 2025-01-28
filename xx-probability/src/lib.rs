@@ -38,7 +38,7 @@ pub fn run(config: Config) {
                 }
             }
 
-            println!("Got a perfect 50/50 in {} tries", counter);
+            // println!("Got a perfect 50/50 in {} tries", counter);
             total_tries += counter;
         }
 
