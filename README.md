@@ -1,8 +1,8 @@
 # Learning Rust
 ___
-### All code done when following [The Rust Programming Language Book](https://doc.rust-lang.org/book/)
+### All code completed while following [The Rust Programming Language Book](https://doc.rust-lang.org/book/), except for probabilty and minigrep(+).
 
-There is a folder in the repo for most chapters (some don't contain code). All book chapters are linked below.
+#### There is a folder in the repo for most chapters (some sections of the book don't contain code). All book chapters are linked below.
 ___
 ### Chapter 1 - [Getting Started](https://doc.rust-lang.org/book/ch01-00-getting-started.html#getting-started)
 
@@ -92,4 +92,10 @@ ___
 - [15.4 - `Rc<T>`, the Reference Counted Smart Pointer](https://doc.rust-lang.org/book/ch15-04-rc.html#rct-the-reference-counted-smart-pointer)
 - [15.5 - `RefCell<T>` and the Interior Mutability Pattern](https://doc.rust-lang.org/book/ch15-05-interior-mutability.html#refcellt-and-the-interior-mutability-pattern)
 - [15.6 - Reference Cycles Can Leak Memory](https://doc.rust-lang.org/book/ch15-06-reference-cycles.html#reference-cycles-can-leak-memory)
+___
+### Chapter 16 - [Fearless Concurrency](https://doc.rust-lang.org/book/ch16-00-concurrency.html#fearless-concurrency)
+- [16.1 - Using Threads to Run Code Simultaneously](https://doc.rust-lang.org/book/ch16-01-threads.html#using-threads-to-run-code-simultaneously)
+- [16.2 - Using Message Passing to Transfer Data Between Threads](https://doc.rust-lang.org/book/ch16-02-message-passing.html#using-message-passing-to-transfer-data-between-threads)
+- [16.3 - Shared-state Concurrency](https://doc.rust-lang.org/book/ch16-03-shared-state.html#shared-state-concurrency)
+- [16.4 - Extensible Concurrency with the `Sync` and `Send` Traits](https://doc.rust-lang.org/book/ch16-04-extensible-concurrency-sync-and-send.html#extensible-concurrency-with-the-sync-and-send-traits)
   
