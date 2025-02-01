@@ -108,3 +108,15 @@ ___
 - [18.1 - All the Places Patterns Can Be Used](https://doc.rust-lang.org/book/ch18-01-all-the-places-for-patterns.html#all-the-places-patterns-can-be-used)
 - [18.2 - Refutability: Whether a Pattern Might Fail to Match](https://doc.rust-lang.org/book/ch18-02-refutability.html#refutability-whether-a-pattern-might-fail-to-match)
 - [18.3 - Pattern Syntax](https://doc.rust-lang.org/book/ch18-03-pattern-syntax.html#pattern-syntax)
+___
+### Chapter 19 - [Advanced Features](https://doc.rust-lang.org/book/ch19-00-advanced-features.html#advanced-features)
+- [Unsafe Rust](https://doc.rust-lang.org/book/ch19-01-unsafe-rust.html#unsafe-rust)
+- [Advanced Traits](https://doc.rust-lang.org/book/ch19-03-advanced-traits.html#advanced-traits)
+- [Advanced Types](https://doc.rust-lang.org/book/ch19-04-advanced-types.html#advanced-types)
+- [Advanced Functions and Closures](https://doc.rust-lang.org/book/ch19-05-advanced-functions-and-closures.html#advanced-functions-and-closures)
+- [Macros](https://doc.rust-lang.org/book/ch19-06-macros.html#macros)
+___
+### Chapter 20 - [Final Project: Building a Multithreaded Web Server](https://doc.rust-lang.org/book/ch20-00-final-project-a-web-server.html#final-project-building-a-multithreaded-web-server)
+- [Building a Single-Threaded Web Server](https://doc.rust-lang.org/book/ch20-01-single-threaded.html#building-a-single-threaded-web-server)
+- [Turning Our Single-Threaded Server into a Multithreaded Server](https://doc.rust-lang.org/book/ch20-02-multithreaded.html#turning-our-single-threaded-server-into-a-multithreaded-server)
+- [Graceful Shutdown and Cleanup](https://doc.rust-lang.org/book/ch20-03-graceful-shutdown-and-cleanup.html#graceful-shutdown-and-cleanup)
