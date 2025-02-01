@@ -1,6 +1,6 @@
 # Learning Rust
 ___
-### All code completed while following [The Rust Programming Language Book](https://doc.rust-lang.org/book/), except for probabilty and minigrep(+).
+### All code completed while following [The Rust Programming Language Book](https://doc.rust-lang.org/book/), except for probability and minigrep(+).
 
 #### There is a folder in the repo for most chapters (some sections of the book don't contain code). All book chapters are linked below.
 ___
@@ -99,8 +99,12 @@ ___
 - [16.3 - Shared-state Concurrency](https://doc.rust-lang.org/book/ch16-03-shared-state.html#shared-state-concurrency)
 - [16.4 - Extensible Concurrency with the `Sync` and `Send` Traits](https://doc.rust-lang.org/book/ch16-04-extensible-concurrency-sync-and-send.html#extensible-concurrency-with-the-sync-and-send-traits)
 ___
-### Chapter 17 - [Object Oriented Programming Features of Rust](https://doc.rust-lang.org/book/ch17-00-oop.html#object-oriented-programming-features-of-rust)
-- [17.1 - Characteristics of Object Oriented Languages](https://doc.rust-lang.org/book/ch17-01-what-is-oo.html#characteristics-of-object-oriented-languages)
+### Chapter 17 - [Object-Oriented Programming Features of Rust](https://doc.rust-lang.org/book/ch17-00-oop.html#object-oriented-programming-features-of-rust)
+- [17.1 - Characteristics of Object-Oriented Languages](https://doc.rust-lang.org/book/ch17-01-what-is-oo.html#characteristics-of-object-oriented-languages)
 - [17.2 - Using Trait Objects That Allow for Value of Different Types](https://doc.rust-lang.org/book/ch17-02-trait-objects.html#using-trait-objects-that-allow-for-values-of-different-types)
 - [17.3 - Implementing an Object-Oriented Design Pattern](https://doc.rust-lang.org/book/ch17-03-oo-design-patterns.html#implementing-an-object-oriented-design-pattern)
-
+___
+### Chapter 18 - [Patterns and Matching](https://doc.rust-lang.org/book/ch18-00-patterns.html#patterns-and-matching)
+- [18.1 - All the Places Patterns Can Be Used](https://doc.rust-lang.org/book/ch18-01-all-the-places-for-patterns.html#all-the-places-patterns-can-be-used)
+- [18.2 - Refutability: Whether a Pattern Might Fail to Match](https://doc.rust-lang.org/book/ch18-02-refutability.html#refutability-whether-a-pattern-might-fail-to-match)
+- [18.3 - Pattern Syntax](https://doc.rust-lang.org/book/ch18-03-pattern-syntax.html#pattern-syntax)
