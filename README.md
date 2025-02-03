@@ -117,6 +117,6 @@ ___
 - [Macros](https://doc.rust-lang.org/book/ch19-06-macros.html#macros)
 ___
 ### Chapter 20 - [Final Project: Building a Multithreaded Web Server](https://doc.rust-lang.org/book/ch20-00-final-project-a-web-server.html#final-project-building-a-multithreaded-web-server)
-- [Building a Single-Threaded Web Server](https://doc.rust-lang.org/book/ch20-01-single-threaded.html#building-a-single-threaded-web-server)
+- [Building a Single-Threaded Web Server](https://doc.rust-lang.org/book/ch20-01-single-threaded.html#building-a-single-threaded-web-server) - [Completed Single-Threaded Simple Server](https://github.com/hijknight/learning-rust/tree/master/20-web-server/web-server)
 - [Turning Our Single-Threaded Server into a Multithreaded Server](https://doc.rust-lang.org/book/ch20-02-multithreaded.html#turning-our-single-threaded-server-into-a-multithreaded-server)
 - [Graceful Shutdown and Cleanup](https://doc.rust-lang.org/book/ch20-03-graceful-shutdown-and-cleanup.html#graceful-shutdown-and-cleanup)
