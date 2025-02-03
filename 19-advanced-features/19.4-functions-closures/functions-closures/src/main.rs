@@ -8,12 +8,19 @@
 //     f(arg) + f(arg)
 // }
 
+// returning closures: will not compile:
+// fn returns_closure() -> dyn Fn(i32) -> i32 {
+//     |x| x + 1
+// }
+fn returns_closure() -> Box<dyn Fn(i32) -> i32> {
+    Box::new(|x| x + 1)
+}
+
 fn main() {
 
 
     let list_of_numbers = vec![1, 2, 3];
-    let list_of_strings: Vec<String> =
-        list_of_numbers.iter().map(ToString::to_string).collect();
+    let list_of_strings: Vec<String> = list_of_numbers.iter().map(ToString::to_string).collect();
 
 
     // let answer = do_twice(add_one, 5);
