@@ -19,7 +19,7 @@ fn main() {
             .read_line(&mut guess)
             .expect("Failed to read line.");
 
-        let guess: u8 = match guess.trim().parse() {
+        let guess: u32 = match guess.trim().parse() {
             Ok(num) => num,
             Err(_) => {
                 println!("Please enter an integer between 1 and 100.");
