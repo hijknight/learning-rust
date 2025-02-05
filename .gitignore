@@ -1,7 +1,7 @@
 .idea
 target
 .DS_Store
-xx-testing
+xx-*
 rustlings
 Cargo.lock
 *.sh
